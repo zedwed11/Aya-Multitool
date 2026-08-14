@@ -40,7 +40,7 @@ A multitool with network tools, a few malicous but mostly trolling, OSINT stuff,
 - 🔌 Port Scanner - *knock knock*
 - 🕷️ Web Scraper - *take what you need*
 - 🕸️ Web Crawler - *dig deeper*
-- 💻 Code Scraper - *find code*
+- 💻 Code Scraper - *stea- I mean find code*
 - 📶 IP Pinger - *is it alive?*
 - 🌑 Dark Web Links - *the forbidden fruit*
 
