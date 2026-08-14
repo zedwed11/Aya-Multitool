@@ -1,5 +1,8 @@
 # Aya-Multitool
 
+#How it looks
+![Aya-Multitool](Screenshot 2026-08-14 010516.png)
+
 # 🛠️ AYA MULTITOOL
 
 > "*Anywhere, Anytime.*" - zed
