@@ -1,7 +1,8 @@
 # Aya-Multitool
 
-#How it looks
+# AYA Multitool
 ![Aya-Multitool](screenshot2.png)
+![Aya-Multitool](screenshot1.png)
 
 # 🛠️ AYA MULTITOOL
 
