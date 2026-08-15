@@ -107,7 +107,7 @@ Ideas? Bugs? Join the Discord, I'm still learning 🙃 *the one man army 😤�
 
 *Made by @zed*
 
-
+https://guns.lol/zedletsdothis
 
 
 
