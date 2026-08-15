@@ -83,7 +83,7 @@ Double click `REQUIREMENTS` → double click `Frontscreen` → done.
 [18] 📁 Dox Creator - build the profile
 [19] 🛡️ Vuln Scanner - find the cracks
 
-text
+
 
 ---
 
